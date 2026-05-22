@@ -1,7 +1,7 @@
 # 🚦 Traffic Crash Severity Prediction using Machine Learning
 
 ## 📌 Project Overview
-
+<!--demo changes-->
 Road traffic accidents cause millions of injuries and fatalities worldwide every year. Predicting accident severity can help governments, traffic authorities, and emergency responders improve road safety and response planning.
 
 This project builds a **Machine Learning-based system to predict crash severity** using environmental, roadway, and temporal factors. Multiple machine learning algorithms were tested and compared to determine the most accurate model.
